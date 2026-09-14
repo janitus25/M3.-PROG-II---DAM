@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Primera clase, parte B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42651B47-0087-4B95-BC58-5FD49AEC2C57}|Primera clase, parte B\\Primera clase, parte B.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Primera clase, parte B\\Primera clase, parte B\\Primera clase, parte B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42651B47-0087-4B95-BC58-5FD49AEC2C57}|Primera clase, parte B\\Primera clase, parte B.vcxproj|solutionrelative:Primera clase, parte B\\Primera clase, parte B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Primera clase, parte B.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Primera clase, parte B\\Primera clase, parte B\\Primera clase, parte B.cpp",
+              "RelativeDocumentMoniker": "Primera clase, parte B\\Primera clase, parte B.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Primera clase, parte B\\Primera clase, parte B\\Primera clase, parte B.cpp",
+              "RelativeToolTip": "Primera clase, parte B\\Primera clase, parte B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-14T15:48:14.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

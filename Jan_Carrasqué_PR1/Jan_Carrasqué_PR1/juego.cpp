@@ -4,7 +4,7 @@
 using namespace std;
 //Al poner delante de las funciones Juego::, el compilador detecta que estas funciones pertenecen a la classe Juego
 
-void Juego::Visualizar_datos_juego() {
+void Juego::VisualizarDatosJuego() {
     cout << "-----------------------------" << endl;
     cout << "Nombre      : " << nombre << endl;
     cout << "Creador     : " << creador << endl;
@@ -15,11 +15,11 @@ void Juego::Visualizar_datos_juego() {
 
 // Para modificar el un atributo privado desde fuera de la clase, tenemos que crear una variable, y asiganarle al atributo lanzamiento el nuevo año
 
-void Juego::Modificar_lanzamiento(int anyo) {
+void Juego::ModificarLanzamiento(int anyo) {
     lanzamiento = anyo;
 }
 
-void Juego::Hacer_descuento(float desc) {
+void Juego::HacerDescuento(float desc) {
     precio = precio - (precio * desc / 100);
 }
 
@@ -34,6 +34,6 @@ Juego::Juego(const char* _nombre, const char* _creador, int _lanzamiento, const 
     //Las variables que son simples, como int _lanzamiento o _precio, se hacen sin el strcpy_s, porque en ellas se puede asignar el valor directamente con un =
 }
 
-void Juego::Modificar_precio(float nuevo_precio) {
+void Juego::ModificarPrecio(float nuevo_precio) {
     precio = nuevo_precio;
 }

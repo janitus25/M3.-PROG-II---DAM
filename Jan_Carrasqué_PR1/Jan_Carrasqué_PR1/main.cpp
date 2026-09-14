@@ -6,15 +6,15 @@ using namespace std;
 int main() {
 
     Juego j("Doom", "id Software", 1993, "C", 20.0f); //Creamos un objeto llamado "j" de tipo Juego, llamando al constructor con los 5 datos iniciales.
-    j.Visualizar_datos_juego(); //Visualizamos los datos del juego
-    j.Hacer_descuento(25); //Aplicamos un 25% de descuento
-    j.Modificar_lanzamiento(1994); //Cambiamos el año de lanzamiento
+    j.VisualizarDatosJuego(); //Visualizamos los datos del juego
+    j.HacerDescuento(25); //Aplicamos un 25% de descuento
+    j.ModificarLanzamiento(1994); //Cambiamos el año de lanzamiento
 
-    j.Visualizar_datos_juego();
+    j.VisualizarDatosJuego();
 
-    j.Modificar_lanzamiento(1978);
-    j.Modificar_precio(-300); //Modificamos el precio
-    j.Visualizar_datos_juego();
+    j.ModificarLanzamiento(1978);
+    j.ModificarPrecio(-300); //Modificamos el precio
+    j.VisualizarDatosJuego();
 
     return 0;
 }
