@@ -6,8 +6,8 @@ class JugadorBaloncesto{
 
 private:
 	string nombre="Default";
-	int altura=0;
-	float peso=0;
+	int altura = 0;
+	float peso = 0;
 	int edad = 0;
 
 public:

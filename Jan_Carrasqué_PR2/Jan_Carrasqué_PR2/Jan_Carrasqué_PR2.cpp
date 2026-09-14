@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 #include "Coche.h"
 #include "Perro.h"
 #include "RobotVex.h"
@@ -8,6 +9,7 @@ using namespace std;
 
 int main(){
 	/*
+	//Coche
 	Coche coche;
 	coche.Acelerar();
 	coche.Frenar();
@@ -15,12 +17,14 @@ int main(){
 	*/
 
 	/*
+	//Perro
 	Perro perro;
 	perro.Correr();
 	perro.Dormir();
 	*/
 	
 	/*
+	//RobotVex
 	RobotVex robot;
 	robot.AgregarRueda(6);
 	robot.ActivarElevador(18);
@@ -29,6 +33,7 @@ int main(){
 	*/
 
 	/*
+	//JugadorBaloncesto
 	JugadorBaloncesto jugador;
 	jugador.Lanzar();
 	jugador.Saltar();

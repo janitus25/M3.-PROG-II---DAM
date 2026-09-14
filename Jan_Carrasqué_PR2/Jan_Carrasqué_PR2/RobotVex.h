@@ -5,11 +5,11 @@ using namespace std;
 class RobotVex {
 
 private:
-	int ruedas;
-	int motores;
-	int piston;
-	string nombre;
-	int velocidad;
+	int ruedas = 0;
+	int motores = 0;
+	int piston = 0;
+	string nombre = "Default";
+	int velocidad = 0;
 
 public:	
 	void AgregarRueda(int _ruedas);
