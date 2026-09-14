@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Primera clase de repaso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA71A639-9F19-4F0F-866A-6C430525EF2F}|Primera clase de repaso\\Primera clase de repaso.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Primera clase de repaso\\Primera clase de repaso\\Primera clase de repaso.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA71A639-9F19-4F0F-866A-6C430525EF2F}|Primera clase de repaso\\Primera clase de repaso.vcxproj|solutionrelative:Primera clase de repaso\\Primera clase de repaso.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Primera clase de repaso.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Primera clase de repaso\\Primera clase de repaso\\Primera clase de repaso.cpp",
+              "RelativeDocumentMoniker": "Primera clase de repaso\\Primera clase de repaso.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Primera clase de repaso\\Primera clase de repaso\\Primera clase de repaso.cpp",
+              "RelativeToolTip": "Primera clase de repaso\\Primera clase de repaso.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-14T14:18:10.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
