@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Warehouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|solutionrelative:Estudiar_Examen\\Warehouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Warehouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|solutionrelative:Estudiar_Examen\\Warehouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Building.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|solutionrelative:Estudiar_Examen\\Building.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Estudiar_Examen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|solutionrelative:Estudiar_Examen\\Estudiar_Examen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Templo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|solutionrelative:Estudiar_Examen\\Templo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Templo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|solutionrelative:Estudiar_Examen\\Templo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|solutionrelative:Estudiar_Examen\\House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\House.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|solutionrelative:Estudiar_Examen\\House.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Building.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AAE1CDB-8C47-4867-A2CC-D317371B0906}|Estudiar_Examen\\Estudiar_Examen.vcxproj|solutionrelative:Estudiar_Examen\\Building.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Warehouse.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Warehouse.cpp",
+              "RelativeDocumentMoniker": "Estudiar_Examen\\Warehouse.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Warehouse.cpp",
+              "RelativeToolTip": "Estudiar_Examen\\Warehouse.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-04T14:11:48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Warehouse.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Warehouse.h",
+              "RelativeDocumentMoniker": "Estudiar_Examen\\Warehouse.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Warehouse.h",
+              "RelativeToolTip": "Estudiar_Examen\\Warehouse.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-04T14:11:47.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Templo.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Templo.cpp",
+              "RelativeDocumentMoniker": "Estudiar_Examen\\Templo.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Templo.cpp",
+              "RelativeToolTip": "Estudiar_Examen\\Templo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-04T14:11:46.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Templo.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Templo.h",
+              "RelativeDocumentMoniker": "Estudiar_Examen\\Templo.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Templo.h",
+              "RelativeToolTip": "Estudiar_Examen\\Templo.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-04T14:11:45.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "House.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\House.cpp",
+              "RelativeDocumentMoniker": "Estudiar_Examen\\House.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\House.cpp",
+              "RelativeToolTip": "Estudiar_Examen\\House.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-04T14:11:44.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "House.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\House.h",
+              "RelativeDocumentMoniker": "Estudiar_Examen\\House.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\House.h",
+              "RelativeToolTip": "Estudiar_Examen\\House.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-04T14:11:42.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Building.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Building.cpp",
+              "RelativeDocumentMoniker": "Estudiar_Examen\\Building.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Building.cpp",
+              "RelativeToolTip": "Estudiar_Examen\\Building.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-04T14:29:27.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Building.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Building.h",
+              "RelativeDocumentMoniker": "Estudiar_Examen\\Building.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Building.h",
+              "RelativeToolTip": "Estudiar_Examen\\Building.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-04T14:11:38.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudiar_Examen.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Estudiar_Examen.cpp",
+              "RelativeDocumentMoniker": "Estudiar_Examen\\Estudiar_Examen.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Estudiar_Examen\\Estudiar_Examen\\Estudiar_Examen.cpp",
+              "RelativeToolTip": "Estudiar_Examen\\Estudiar_Examen.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-04T14:11:35.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

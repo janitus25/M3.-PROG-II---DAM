@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CC9964-733E-4222-B198-D1FFFA5C38C3}|repaso_Exmane\\repaso_Exmane.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\Warehouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9CC9964-733E-4222-B198-D1FFFA5C38C3}|repaso_Exmane\\repaso_Exmane.vcxproj|solutionrelative:repaso_Exmane\\Warehouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CC9964-733E-4222-B198-D1FFFA5C38C3}|repaso_Exmane\\repaso_Exmane.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\Building.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9CC9964-733E-4222-B198-D1FFFA5C38C3}|repaso_Exmane\\repaso_Exmane.vcxproj|solutionrelative:repaso_Exmane\\Building.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CC9964-733E-4222-B198-D1FFFA5C38C3}|repaso_Exmane\\repaso_Exmane.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\Building.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9CC9964-733E-4222-B198-D1FFFA5C38C3}|repaso_Exmane\\repaso_Exmane.vcxproj|solutionrelative:repaso_Exmane\\Building.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CC9964-733E-4222-B198-D1FFFA5C38C3}|repaso_Exmane\\repaso_Exmane.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\repaso_Exmane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9CC9964-733E-4222-B198-D1FFFA5C38C3}|repaso_Exmane\\repaso_Exmane.vcxproj|solutionrelative:repaso_Exmane\\repaso_Exmane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CC9964-733E-4222-B198-D1FFFA5C38C3}|repaso_Exmane\\repaso_Exmane.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\Warehouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9CC9964-733E-4222-B198-D1FFFA5C38C3}|repaso_Exmane\\repaso_Exmane.vcxproj|solutionrelative:repaso_Exmane\\Warehouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CC9964-733E-4222-B198-D1FFFA5C38C3}|repaso_Exmane\\repaso_Exmane.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\House.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9CC9964-733E-4222-B198-D1FFFA5C38C3}|repaso_Exmane\\repaso_Exmane.vcxproj|solutionrelative:repaso_Exmane\\House.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CC9964-733E-4222-B198-D1FFFA5C38C3}|repaso_Exmane\\repaso_Exmane.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9CC9964-733E-4222-B198-D1FFFA5C38C3}|repaso_Exmane\\repaso_Exmane.vcxproj|solutionrelative:repaso_Exmane\\House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "House.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\House.cpp",
+              "RelativeDocumentMoniker": "repaso_Exmane\\House.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\House.cpp",
+              "RelativeToolTip": "repaso_Exmane\\House.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-01T14:48:41.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "House.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\House.h",
+              "RelativeDocumentMoniker": "repaso_Exmane\\House.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\House.h",
+              "RelativeToolTip": "repaso_Exmane\\House.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-01T14:48:38.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Warehouse.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\Warehouse.cpp",
+              "RelativeDocumentMoniker": "repaso_Exmane\\Warehouse.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\Warehouse.cpp",
+              "RelativeToolTip": "repaso_Exmane\\Warehouse.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-01T14:43:16.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Warehouse.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\Warehouse.h",
+              "RelativeDocumentMoniker": "repaso_Exmane\\Warehouse.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\Warehouse.h",
+              "RelativeToolTip": "repaso_Exmane\\Warehouse.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-01T14:43:10.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Building.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\Building.cpp",
+              "RelativeDocumentMoniker": "repaso_Exmane\\Building.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\Building.cpp",
+              "RelativeToolTip": "repaso_Exmane\\Building.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-01T14:40:16.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Building.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\Building.h",
+              "RelativeDocumentMoniker": "repaso_Exmane\\Building.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\Building.h",
+              "RelativeToolTip": "repaso_Exmane\\Building.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-01T14:40:14.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "repaso_Exmane.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\repaso_Exmane.cpp",
+              "RelativeDocumentMoniker": "repaso_Exmane\\repaso_Exmane.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\repaso_Exmane\\repaso_Exmane\\repaso_Exmane.cpp",
+              "RelativeToolTip": "repaso_Exmane\\repaso_Exmane.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-01T14:38:50.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

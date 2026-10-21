@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Examen Herencia y composici\u00F3n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB54AA8-1B92-4A81-82AB-E8B2A8D4437F}|Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n\\Vehiculo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BB54AA8-1B92-4A81-82AB-E8B2A8D4437F}|Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n.vcxproj|solutionrelative:Examen Herencia y composici\u00F3n\\Vehiculo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB54AA8-1B92-4A81-82AB-E8B2A8D4437F}|Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BB54AA8-1B92-4A81-82AB-E8B2A8D4437F}|Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n.vcxproj|solutionrelative:Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehiculo.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n\\Vehiculo.h",
+              "RelativeDocumentMoniker": "Examen Herencia y composici\u00F3n\\Vehiculo.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n\\Vehiculo.h",
+              "RelativeToolTip": "Examen Herencia y composici\u00F3n\\Vehiculo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-08T13:04:48.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Examen Herencia y composici\u00F3n.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n.cpp",
+              "RelativeDocumentMoniker": "Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n.cpp",
+              "RelativeToolTip": "Examen Herencia y composici\u00F3n\\Examen Herencia y composici\u00F3n.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-08T13:04:32.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|solutionrelative:Homelab\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Ventilador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|solutionrelative:Homelab\\Ventilador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Ventilador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|solutionrelative:Homelab\\Ventilador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\RaspberryPi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|solutionrelative:Homelab\\RaspberryPi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\RaspberryPi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|solutionrelative:Homelab\\RaspberryPi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Nas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|solutionrelative:Homelab\\Nas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Nas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|solutionrelative:Homelab\\Nas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Homelab.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|solutionrelative:Homelab\\Homelab.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Homelab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F09E54A-03EC-461A-9884-E31FC67DD1B8}|Homelab\\Homelab.vcxproj|solutionrelative:Homelab\\Homelab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Homelab.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Homelab.cpp",
+              "RelativeDocumentMoniker": "Homelab\\Homelab.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Homelab.cpp",
+              "RelativeToolTip": "Homelab\\Homelab.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-07T14:19:02.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Homelab.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Homelab.h",
+              "RelativeDocumentMoniker": "Homelab\\Homelab.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Homelab.h",
+              "RelativeToolTip": "Homelab\\Homelab.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-07T14:19:00.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nas.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Nas.cpp",
+              "RelativeDocumentMoniker": "Homelab\\Nas.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Nas.cpp",
+              "RelativeToolTip": "Homelab\\Nas.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-06T18:08:43.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nas.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Nas.h",
+              "RelativeDocumentMoniker": "Homelab\\Nas.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Nas.h",
+              "RelativeToolTip": "Homelab\\Nas.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-06T18:08:40.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RaspberryPi.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\RaspberryPi.cpp",
+              "RelativeDocumentMoniker": "Homelab\\RaspberryPi.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\RaspberryPi.cpp",
+              "RelativeToolTip": "Homelab\\RaspberryPi.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-06T18:03:07.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RaspberryPi.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\RaspberryPi.h",
+              "RelativeDocumentMoniker": "Homelab\\RaspberryPi.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\RaspberryPi.h",
+              "RelativeToolTip": "Homelab\\RaspberryPi.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-06T18:03:02.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ventilador.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Ventilador.cpp",
+              "RelativeDocumentMoniker": "Homelab\\Ventilador.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Ventilador.cpp",
+              "RelativeToolTip": "Homelab\\Ventilador.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-06T11:36:31.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ventilador.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Ventilador.h",
+              "RelativeDocumentMoniker": "Homelab\\Ventilador.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\Ventilador.h",
+              "RelativeToolTip": "Homelab\\Ventilador.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-06T11:35:27.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\main.cpp",
+              "RelativeDocumentMoniker": "Homelab\\main.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Homelab\\Homelab\\main.cpp",
+              "RelativeToolTip": "Homelab\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T19:39:13.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\EstudiarExamen2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|solutionrelative:EstudiarExamen2\\EstudiarExamen2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|solutionrelative:EstudiarExamen2\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|solutionrelative:EstudiarExamen2\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Motorcycle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|solutionrelative:EstudiarExamen2\\Motorcycle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Motorcycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|solutionrelative:EstudiarExamen2\\Motorcycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Truck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|solutionrelative:EstudiarExamen2\\Truck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|solutionrelative:EstudiarExamen2\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Truck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|solutionrelative:EstudiarExamen2\\Truck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Vehicle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{213503DD-CB74-4CF7-B641-B29EDD4E1346}|EstudiarExamen2\\EstudiarExamen2.vcxproj|solutionrelative:EstudiarExamen2\\Vehicle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehicle.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Vehicle.cpp",
+              "RelativeDocumentMoniker": "EstudiarExamen2\\Vehicle.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Vehicle.cpp",
+              "RelativeToolTip": "EstudiarExamen2\\Vehicle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-04T15:14:22.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Vehicle.h",
+              "RelativeDocumentMoniker": "EstudiarExamen2\\Vehicle.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Vehicle.h",
+              "RelativeToolTip": "EstudiarExamen2\\Vehicle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-04T15:14:21.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Truck.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Truck.cpp",
+              "RelativeDocumentMoniker": "EstudiarExamen2\\Truck.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Truck.cpp",
+              "RelativeToolTip": "EstudiarExamen2\\Truck.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-04T15:14:21.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Truck.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Truck.h",
+              "RelativeDocumentMoniker": "EstudiarExamen2\\Truck.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Truck.h",
+              "RelativeToolTip": "EstudiarExamen2\\Truck.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-04T15:14:20.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Motorcycle.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Motorcycle.cpp",
+              "RelativeDocumentMoniker": "EstudiarExamen2\\Motorcycle.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Motorcycle.cpp",
+              "RelativeToolTip": "EstudiarExamen2\\Motorcycle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-04T15:14:19.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Motorcycle.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Motorcycle.h",
+              "RelativeDocumentMoniker": "EstudiarExamen2\\Motorcycle.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Motorcycle.h",
+              "RelativeToolTip": "EstudiarExamen2\\Motorcycle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-04T15:14:18.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Car.cpp",
+              "RelativeDocumentMoniker": "EstudiarExamen2\\Car.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Car.cpp",
+              "RelativeToolTip": "EstudiarExamen2\\Car.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-04T15:14:15.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Car.h",
+              "RelativeDocumentMoniker": "EstudiarExamen2\\Car.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\Car.h",
+              "RelativeToolTip": "EstudiarExamen2\\Car.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-04T15:14:14.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstudiarExamen2.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\EstudiarExamen2.cpp",
+              "RelativeDocumentMoniker": "EstudiarExamen2\\EstudiarExamen2.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\EstudiarExamen2\\EstudiarExamen2\\EstudiarExamen2.cpp",
+              "RelativeToolTip": "EstudiarExamen2\\EstudiarExamen2.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-04T15:00:30.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

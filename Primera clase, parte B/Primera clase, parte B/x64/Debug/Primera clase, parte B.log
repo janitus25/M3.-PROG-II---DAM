@@ -1,0 +1,8 @@
+﻿  Motor.cpp
+C:\Users\Jan\Documents\C++\M3. PROG II - DAM\Primera clase, parte B\Primera clase, parte B\Motor.cpp(18,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jan\Documents\C++\M3. PROG II - DAM\Primera clase, parte B\Primera clase, parte B\Motor.cpp(31,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Primera clase, parte B.cpp
+C:\Users\Jan\Documents\C++\M3. PROG II - DAM\Primera clase, parte B\Primera clase, parte B\Primera clase, parte B.cpp(9,10): warning C4129: “ ”: secuencia de escape de caracteres no reconocida
+  Vex.cpp
+  Generando código...
+  Primera clase, parte B.vcxproj -> C:\Users\Jan\Documents\C++\M3. PROG II - DAM\Primera clase, parte B\x64\Debug\Primera clase, parte B.exe

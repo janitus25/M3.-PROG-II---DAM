@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Herramienta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|solutionrelative:Obreros y herramientas\\Herramienta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Obreros y herramientas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|solutionrelative:Obreros y herramientas\\Obreros y herramientas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Herramienta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|solutionrelative:Obreros y herramientas\\Herramienta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Obrero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|solutionrelative:Obreros y herramientas\\Obrero.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Taladro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|solutionrelative:Obreros y herramientas\\Taladro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Martillo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|solutionrelative:Obreros y herramientas\\Martillo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Martillo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|solutionrelative:Obreros y herramientas\\Martillo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Taladro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|solutionrelative:Obreros y herramientas\\Taladro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Obrero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD504441-A5C5-4F09-95F8-0DCCD9C2B034}|Obreros y herramientas\\Obreros y herramientas.vcxproj|solutionrelative:Obreros y herramientas\\Obrero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Obrero.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Obrero.cpp",
+              "RelativeDocumentMoniker": "Obreros y herramientas\\Obrero.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Obrero.cpp",
+              "RelativeToolTip": "Obreros y herramientas\\Obrero.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T17:47:09.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Obrero.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Obrero.h",
+              "RelativeDocumentMoniker": "Obreros y herramientas\\Obrero.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Obrero.h",
+              "RelativeToolTip": "Obreros y herramientas\\Obrero.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-05T17:47:07.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Taladro.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Taladro.cpp",
+              "RelativeDocumentMoniker": "Obreros y herramientas\\Taladro.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Taladro.cpp",
+              "RelativeToolTip": "Obreros y herramientas\\Taladro.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T17:43:48.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Taladro.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Taladro.h",
+              "RelativeDocumentMoniker": "Obreros y herramientas\\Taladro.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Taladro.h",
+              "RelativeToolTip": "Obreros y herramientas\\Taladro.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-05T17:42:51.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Martillo.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Martillo.cpp",
+              "RelativeDocumentMoniker": "Obreros y herramientas\\Martillo.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Martillo.cpp",
+              "RelativeToolTip": "Obreros y herramientas\\Martillo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T17:38:40.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Martillo.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Martillo.h",
+              "RelativeDocumentMoniker": "Obreros y herramientas\\Martillo.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Martillo.h",
+              "RelativeToolTip": "Obreros y herramientas\\Martillo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-05T17:38:36.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Herramienta.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Herramienta.cpp",
+              "RelativeDocumentMoniker": "Obreros y herramientas\\Herramienta.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Herramienta.cpp",
+              "RelativeToolTip": "Obreros y herramientas\\Herramienta.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T17:35:43.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Herramienta.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Herramienta.h",
+              "RelativeDocumentMoniker": "Obreros y herramientas\\Herramienta.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Herramienta.h",
+              "RelativeToolTip": "Obreros y herramientas\\Herramienta.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-05T17:34:20.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Obreros y herramientas.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Obreros y herramientas.cpp",
+              "RelativeDocumentMoniker": "Obreros y herramientas\\Obreros y herramientas.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Obreros y herramientas\\Obreros y herramientas\\Obreros y herramientas.cpp",
+              "RelativeToolTip": "Obreros y herramientas\\Obreros y herramientas.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T17:33:50.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

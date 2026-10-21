@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{771BAC1C-82A3-4F1D-860B-386AE59F7AC6}|ExamenRepaso\\ExamenRepaso.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\Coche.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{771BAC1C-82A3-4F1D-860B-386AE59F7AC6}|ExamenRepaso\\ExamenRepaso.vcxproj|solutionrelative:ExamenRepaso\\Coche.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771BAC1C-82A3-4F1D-860B-386AE59F7AC6}|ExamenRepaso\\ExamenRepaso.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\Vehiculo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{771BAC1C-82A3-4F1D-860B-386AE59F7AC6}|ExamenRepaso\\ExamenRepaso.vcxproj|solutionrelative:ExamenRepaso\\Vehiculo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771BAC1C-82A3-4F1D-860B-386AE59F7AC6}|ExamenRepaso\\ExamenRepaso.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\Coche.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{771BAC1C-82A3-4F1D-860B-386AE59F7AC6}|ExamenRepaso\\ExamenRepaso.vcxproj|solutionrelative:ExamenRepaso\\Coche.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771BAC1C-82A3-4F1D-860B-386AE59F7AC6}|ExamenRepaso\\ExamenRepaso.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\Vehiculo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{771BAC1C-82A3-4F1D-860B-386AE59F7AC6}|ExamenRepaso\\ExamenRepaso.vcxproj|solutionrelative:ExamenRepaso\\Vehiculo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771BAC1C-82A3-4F1D-860B-386AE59F7AC6}|ExamenRepaso\\ExamenRepaso.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\ExamenRepaso.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{771BAC1C-82A3-4F1D-860B-386AE59F7AC6}|ExamenRepaso\\ExamenRepaso.vcxproj|solutionrelative:ExamenRepaso\\ExamenRepaso.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coche.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\Coche.cpp",
+              "RelativeDocumentMoniker": "ExamenRepaso\\Coche.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\Coche.cpp",
+              "RelativeToolTip": "ExamenRepaso\\Coche.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-15T13:13:12.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coche.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\Coche.h",
+              "RelativeDocumentMoniker": "ExamenRepaso\\Coche.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\Coche.h",
+              "RelativeToolTip": "ExamenRepaso\\Coche.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-15T13:12:04.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehiculo.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\Vehiculo.cpp",
+              "RelativeDocumentMoniker": "ExamenRepaso\\Vehiculo.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\Vehiculo.cpp",
+              "RelativeToolTip": "ExamenRepaso\\Vehiculo.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-15T13:08:26.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehiculo.h",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\Vehiculo.h",
+              "RelativeDocumentMoniker": "ExamenRepaso\\Vehiculo.h",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\Vehiculo.h",
+              "RelativeToolTip": "ExamenRepaso\\Vehiculo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-15T13:06:45.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExamenRepaso.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\ExamenRepaso.cpp",
+              "RelativeDocumentMoniker": "ExamenRepaso\\ExamenRepaso.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\ExamenRepaso\\ExamenRepaso\\ExamenRepaso.cpp",
+              "RelativeToolTip": "ExamenRepaso\\ExamenRepaso.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-15T13:06:18.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

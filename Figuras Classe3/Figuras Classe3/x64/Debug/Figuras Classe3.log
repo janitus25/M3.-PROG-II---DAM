@@ -1,0 +1,18 @@
+﻿  Circulo.cpp
+  Cuadrado.cpp
+C:\Users\Jan\Documents\C++\M3. PROG II - DAM\Figuras Classe3\Figuras Classe3\Circulo.h(12,8): error C3668: 'Circulo::area': el método con el especificador de invalidación 'override' no invalidó ningún método de clase base
+  (compilando archivo de origen "Circulo.cpp")
+  
+C:\Users\Jan\Documents\C++\M3. PROG II - DAM\Figuras Classe3\Figuras Classe3\Circulo.cpp(5,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jan\Documents\C++\M3. PROG II - DAM\Figuras Classe3\Figuras Classe3\Cuadrado.h(13,8): error C3668: 'Cuadrado::area': el método con el especificador de invalidación 'override' no invalidó ningún método de clase base
+  (compilando archivo de origen "Cuadrado.cpp")
+  
+  Figura.cpp
+  Figuras Classe3.cpp
+C:\Users\Jan\Documents\C++\M3. PROG II - DAM\Figuras Classe3\Figuras Classe3\Circulo.h(12,8): error C3668: 'Circulo::area': el método con el especificador de invalidación 'override' no invalidó ningún método de clase base
+  (compilando archivo de origen "Figuras%20Classe3.cpp")
+  
+C:\Users\Jan\Documents\C++\M3. PROG II - DAM\Figuras Classe3\Figuras Classe3\Cuadrado.h(13,8): error C3668: 'Cuadrado::area': el método con el especificador de invalidación 'override' no invalidó ningún método de clase base
+  (compilando archivo de origen "Figuras%20Classe3.cpp")
+  
+  Generando código...
