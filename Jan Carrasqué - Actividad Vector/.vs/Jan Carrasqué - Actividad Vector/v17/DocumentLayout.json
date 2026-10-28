@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Actividad Vector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E12EFE8-5AEC-4384-A4DB-F0D67DC39CC2}|Jan Carrasqu\u00E9 - Actividad Vector\\Jan Carrasqu\u00E9 - Actividad Vector.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Actividad Vector\\Jan Carrasqu\u00E9 - Actividad Vector\\Jan Carrasqu\u00E9 - Actividad Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E12EFE8-5AEC-4384-A4DB-F0D67DC39CC2}|Jan Carrasqu\u00E9 - Actividad Vector\\Jan Carrasqu\u00E9 - Actividad Vector.vcxproj|solutionrelative:Jan Carrasqu\u00E9 - Actividad Vector\\Jan Carrasqu\u00E9 - Actividad Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jan Carrasqu\u00E9 - Actividad Vector.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Actividad Vector\\Jan Carrasqu\u00E9 - Actividad Vector\\Jan Carrasqu\u00E9 - Actividad Vector.cpp",
+              "RelativeDocumentMoniker": "Jan Carrasqu\u00E9 - Actividad Vector\\Jan Carrasqu\u00E9 - Actividad Vector.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Actividad Vector\\Jan Carrasqu\u00E9 - Actividad Vector\\Jan Carrasqu\u00E9 - Actividad Vector.cpp",
+              "RelativeToolTip": "Jan Carrasqu\u00E9 - Actividad Vector\\Jan Carrasqu\u00E9 - Actividad Vector.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-24T20:19:28.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
