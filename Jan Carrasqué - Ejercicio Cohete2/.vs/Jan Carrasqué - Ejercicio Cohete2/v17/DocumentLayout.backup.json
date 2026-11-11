@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEF85272-A05A-49DF-88AA-9FD58D4334D9}|Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Cohete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BEF85272-A05A-49DF-88AA-9FD58D4334D9}|Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.vcxproj|solutionrelative:Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Cohete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BEF85272-A05A-49DF-88AA-9FD58D4334D9}|Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\MapController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BEF85272-A05A-49DF-88AA-9FD58D4334D9}|Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.vcxproj|solutionrelative:Jan Carrasqu\u00E9 - Ejercicio Cohete2\\MapController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEF85272-A05A-49DF-88AA-9FD58D4334D9}|Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BEF85272-A05A-49DF-88AA-9FD58D4334D9}|Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Cohete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BEF85272-A05A-49DF-88AA-9FD58D4334D9}|Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.vcxproj|solutionrelative:Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Cohete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF85272-A05A-49DF-88AA-9FD58D4334D9}|Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Cohete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BEF85272-A05A-49DF-88AA-9FD58D4334D9}|Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.vcxproj|solutionrelative:Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Cohete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEF85272-A05A-49DF-88AA-9FD58D4334D9}|Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Capsula.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BEF85272-A05A-49DF-88AA-9FD58D4334D9}|Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\MapController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BEF85272-A05A-49DF-88AA-9FD58D4334D9}|Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.vcxproj|solutionrelative:Jan Carrasqu\u00E9 - Ejercicio Cohete2\\MapController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEF85272-A05A-49DF-88AA-9FD58D4334D9}|Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.vcxproj|C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\MapController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BEF85272-A05A-49DF-88AA-9FD58D4334D9}|Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.vcxproj|solutionrelative:Jan Carrasqu\u00E9 - Ejercicio Cohete2\\MapController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "MapController.cpp",
               "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\MapController.cpp",
               "RelativeDocumentMoniker": "Jan Carrasqu\u00E9 - Ejercicio Cohete2\\MapController.cpp",
               "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\MapController.cpp",
               "RelativeToolTip": "Jan Carrasqu\u00E9 - Ejercicio Cohete2\\MapController.cpp",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAABEAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-02T17:42:32.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MapController.h",
               "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\MapController.h",
               "RelativeDocumentMoniker": "Jan Carrasqu\u00E9 - Ejercicio Cohete2\\MapController.h",
               "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\MapController.h",
               "RelativeToolTip": "Jan Carrasqu\u00E9 - Ejercicio Cohete2\\MapController.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-11-02T17:42:23.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Capsula.cpp",
               "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Capsula.cpp",
               "RelativeDocumentMoniker": "Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Capsula.cpp",
               "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Capsula.cpp",
               "RelativeToolTip": "Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Capsula.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-02T16:04:45.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Capsula.h",
               "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Capsula.h",
               "RelativeDocumentMoniker": "Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Capsula.h",
@@ -94,13 +94,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Cohete.cpp",
               "DocumentMoniker": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Cohete.cpp",
               "RelativeDocumentMoniker": "Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Cohete.cpp",
               "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Cohete.cpp",
               "RelativeToolTip": "Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Cohete.cpp",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAtwGcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAowKUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-02T16:06:16.553Z",
               "EditorCaption": ""
@@ -113,7 +113,7 @@
               "RelativeDocumentMoniker": "Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Cohete.h",
               "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Cohete.h",
               "RelativeToolTip": "Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Cohete.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-11-02T15:40:50.503Z",
               "EditorCaption": ""
@@ -126,7 +126,7 @@
               "RelativeDocumentMoniker": "Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.cpp",
               "ToolTip": "C:\\Users\\Jan\\Documents\\C\u002B\u002B\\M3. PROG II - DAM\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.cpp",
               "RelativeToolTip": "Jan Carrasqu\u00E9 - Ejercicio Cohete2\\Jan Carrasqu\u00E9 - Ejercicio Cohete2.cpp",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAAF8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowI4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-02T15:40:11.008Z",
               "EditorCaption": ""
